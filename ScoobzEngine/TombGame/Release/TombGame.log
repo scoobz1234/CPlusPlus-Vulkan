@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  main.cpp
+  TombGame.cpp
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  All 375 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  TombGame.vcxproj -> C:\Users\Stephen\Desktop\VulkanProject\ScoobzEngine\Release\TombGame.exe

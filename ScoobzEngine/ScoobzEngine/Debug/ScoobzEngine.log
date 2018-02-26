@@ -1,0 +1,12 @@
+﻿  Window.cpp
+  SEVertexBuffer.cpp
+  SESwapChain.cpp
+c:\users\stephen\desktop\vulkanproject\scoobzengine\scoobzengine\seswapchain.cpp(151): warning C4838: conversion from 'int' to 'uint32_t' requires a narrowing conversion
+  SEQueueFamily.cpp
+  SECommandPool.cpp
+  SEBuffer.cpp
+  Generating Code...
+  Compiling...
+  ScoobzEngine.cpp
+  Generating Code...
+  ScoobzEngine.vcxproj -> C:\Users\Stephen\Desktop\VulkanProject\ScoobzEngine\Debug\ScoobzEngine.lib
